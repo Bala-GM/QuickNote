@@ -10,7 +10,8 @@ import ctypes
 import PySimpleGUI as sg
 from pynput import keyboard, mouse
 
-#Ver-1.0 Bala-GM
+# V-0.1.0
+# Bala-GM
 # Define file paths
 note_file_path = r"D:\NX_BACKWORK\Database_File\Process_QuickNOTE\Note.txt"
 tracker_file_path = r"D:\NX_BACKWORK\Database_File\Process_QuickNOTE\Tracker.txt"
