@@ -90,20 +90,6 @@ pyinstaller -F -i "QN.ico" --onefile --noconsole QuickNote.py
 
 ---
 
-# MIT License
-- This project is licensed under the MIT License. See the LICENSE file for more information.
-
----
-
-# Credits
-Developed by Bala Ganesh.
-Version: v0.1.0
-Year: 2024
-
-```vb
-You can customize this file as needed or expand it with additional sections. Let me know if you'd like assistance creating a specific section! 😊
-```
-
 ## GUI Features:
 
 - A toggle button (arrow_window) allows the user to show or hide the note-taking window (note_window).
@@ -132,3 +118,16 @@ You can customize this file as needed or expand it with additional sections. Let
 ## Utility:
 
 - Can be compiled into an executable using PyInstaller for deployment.
+# MIT License
+- This project is licensed under the MIT License. See the LICENSE file for more information.
+
+---
+
+# Credits
+Developed by Bala Ganesh.
+Version: v0.1.0
+Year: 2024
+
+```vb
+You can customize this file as needed or expand it with additional sections. Let me know if you'd like assistance creating a specific section! 😊
+```
