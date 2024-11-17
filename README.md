@@ -107,10 +107,10 @@ You can customize this file as needed or expand it with additional sections. Let
 ## GUI Features:
 
 - A toggle button (arrow_window) allows the user to show or hide the note-taking window (note_window).
-- ![image](QuickNote_HomeScreen.JPG)
+    ![image](QuickNote_togglebutton.JPG)
   
 - The note window includes a multiline text area, "Save Note," "Hide," and "Quit" buttons.
-- ![image](QuickNote_togglebutton.JPG)
+    ![image](QuickNote_HomeScreen.JPG)
 
 
 ## Event Logging:
